@@ -1,6 +1,15 @@
-.corpo-conteúdo{
+.cabecalho{
     background-color: aqua;
     color:white
+}
+.principal{
+    background-color: mediumaquamarine;
+    color: black;
+}
+.rodape{
+    background-color: aliceblue;
+    color:blue;
+    text-align:center;
 }
 #sol{
     width: 600px;
