@@ -3,12 +3,12 @@
     color:white
 }
 .principal{
-    background-color: mediumaquamarine;
+    background-color: rgb(188, 102, 205);
     color: black;
 }
 .rodape{
     background-color: aliceblue;
-    color:blue;
+    color:rgb(255, 0, 149);
     text-align:center;
 }
 #sol{
